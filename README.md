@@ -11,3 +11,9 @@
 - 08 - Eye Friendly Colors
 - 09 - Three R's of Creative Coding
 - 10 - Fun With The Camera
+
+
+## Extras
+
+- 01 - sin() and cos() Circle Path Intuition
+- 02 - Geomerative Text Points Demo
